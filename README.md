@@ -88,3 +88,7 @@ Tenho experiência com JavaScript, Node.js, PHP, banco de dados MYSQL, Python e 
 <br/>
 <br/>
 
+## Projetos
+### [E-Portal - TCC](https://github.com/StylishTigerDev/E-Portal-TCC-)
+*| Projeto de TCC feito para realizar e gerenciar postagens de avisos para a ETEC de Poá, além de visualizar projetos extracurriculares.*
+
