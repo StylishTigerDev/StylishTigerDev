@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software/web`**
 
-Me chamo Paulo Rickelme Felix, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC de Poá, com o curso técnico Desenvolvimento de sistemas, aonde desenvolvi projetos voltados para o web e sistemas. Atualmente, estou cursando Ciência de dados na UFABC(Universidade Federal do ABC). 
+Me chamo Paulo Rickelme Felix, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na **ETEC de Poá**, com o curso técnico **Desenvolvimento de sistemas**, aonde desenvolvi projetos voltados para o web e sistemas. Atualmente, estou cursando **Ciência de dados na UFABC (Universidade Federal do ABC)**. 
 
 Tenho experiência com JavaScript, Node.js, PHP, banco de dados MYSQL, Python e conhecimentos sobre AWS e PowerBI
 
